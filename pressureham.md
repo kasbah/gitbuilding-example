@@ -1,0 +1,8 @@
+
+
+[Pressure cooker]:Parts/PressureCook.md "Qty: 1"
+
+# Pressure cook some ham
+
+
+Put about 300 ml of [water]{Qty: 300 ml} in the bottom of your [Pressure cooker]. Place the steaming trivet into the cooker, then place a nice bigish [ham joint]{Qty: 1} on the trivet.

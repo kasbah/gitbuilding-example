@@ -1,0 +1,19 @@
+
+PressureCook:
+    Name: Pressure Cooker
+    Description: An electric pressure cooker
+    Specs:
+        Power: Electric
+        Size: At least 4L
+    Suppliers:
+        Amazon:
+            PartNo: B07C1MPN1S
+            Link: 'https://www.amazon.co.uk/Tefal-CY505E40-Electric-Pressure-Stainless/dp/B07C1MPN1S/ref=sr_1_3?ie=UTF8&qid=1541780982&sr=8-3&keywords=tefal+electric+pressure+cooker'
+        DOMU:
+            PartNo: 13/333
+            Link: 'https://www.domu.co.uk/vonshef-6l-electric-pressure-cooker?gclid=CjwKCAiA_ZTfBRBjEiwAN6YG4WOhO9lCMK-r1j9hXv8vAAhOworlyc-38KeWJqcRLtYr8FnORetlTRoCoUYQAvD_BwE&gclsrc=aw.ds'
+Tupperware:
+    Name: Tupperware Tub
+    Description: Some sort of tub probably not made by Tupperware
+    Specs:
+        Size: Big enough
