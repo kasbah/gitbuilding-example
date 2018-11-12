@@ -4,6 +4,9 @@
 
 # Make a sandwhich
 
+{{BOM}}
+
+## Method:
 
 Slice the ham from the previous step.
 
