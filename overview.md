@@ -7,3 +7,4 @@ This is a simple example of how to use Git-Building. Rather than an open hardwar
 1. [.](pressureham.md)
 1. [.](sandwich.md)
 1. [.](packpickles.md)
+1. [.](sidesalad.md)
