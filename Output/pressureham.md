@@ -7,9 +7,9 @@
 
 ## For this step you will need:
 
-* 1 x  [Pressure cooker] (Used: None )
-* 300 ml [water] (Used: 300 ml )
-* 1 x  [ham joint] (Used: 1 )
+* 1 x  [Pressure cooker]  (Used: None )
+* 300 ml [water]
+* 1 x  [ham joint]
 
 
 ## Method:

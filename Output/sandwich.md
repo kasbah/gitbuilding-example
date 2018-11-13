@@ -1,5 +1,5 @@
 [Tupperware tub]:Parts/Tupperware.md
-[slices of bread]:missing
+[slices of bread]:bread.md
 [butter]:missing
 [Piccalilli]:missing
 
@@ -8,10 +8,10 @@
 
 ## For this step you will need:
 
-* 1 x  [Tupperware tub] (Used: 1 )
-* 2 x  [slices of bread] (Used: 2 )
-* A knob of [butter] (Used: A knob of )
-* Quite a bit [Piccalilli] (Used: Quite a bit )
+* 1 x  [Tupperware tub]
+* 2 x  [slices of bread]
+* A knob of [butter]
+* Quite a bit [Piccalilli]
 
 
 ## Method:

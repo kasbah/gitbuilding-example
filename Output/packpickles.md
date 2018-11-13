@@ -8,10 +8,10 @@
 
 ## For this step you will need:
 
-* 1 x  [Tupperware tubs] (Used: 1 )
-* 1 x  [pickled egg] (Used: 1 )
-* 4 x  [pickled onions] (Used: 4 )
-* 1 x  [Gherkin] (Used: 1 )
+* 2 x  [Tupperware tubs]  (Used: 1 )
+* 1 x  [pickled egg]
+* 4 x  [pickled onions]
+* 1 x  [Gherkin]
 
 
 ## Method:

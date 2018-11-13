@@ -14,14 +14,14 @@ A fancy little side salad for your snazzy lunch.
 
 ## For this step you will need:
 
-* 1 x  [Tupperware tub] (Used: 1 )
-* 4 x  [cherry tomatoes] (Used: 4 )
-* 0.25 of  [teaspoon of salt] (Used: 0.5 )
-* 4 x  [orange bell pepper] (Used: 4 )
-* 0.5 of  [avocado] (Used: 0.5 )
-* 3 x  [spring onions] (Used: 3 )
-* a splash [balsamic vinegar] (Used: a splash )
-* A little [pepper] (Used: A little )
+* 1 x  [Tupperware tub]
+* 4 x  [cherry tomatoes]
+* 0.5 of  [teaspoon of salt]
+* 4 x  [orange bell pepper]
+* 0.5 of  [avocado]
+* 3 x  [spring onions]
+* a splash [balsamic vinegar]
+* A little [pepper]
 
 
 ## Method:
