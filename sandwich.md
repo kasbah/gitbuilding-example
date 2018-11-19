@@ -3,7 +3,7 @@
 [Tupperware tub]:Parts/Tupperware.md "Qty: 1"
 [slices of bread]:bread.md "Qty: ?"
 
-# Make a sandwhich
+# Make a sandwich
 
 {{BOM}}
 

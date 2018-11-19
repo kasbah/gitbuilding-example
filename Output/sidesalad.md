@@ -4,11 +4,12 @@
 [orange bell pepper]:missing
 [avocado]:missing
 [spring onions]:missing
+[tablespoon of olive oil]:missing
 [balsamic vinegar]:missing
 [pepper]:missing
 
 
-# Pack some pickles
+# Side salad
 
 A fancy little side salad for your snazzy lunch.
 
@@ -20,6 +21,7 @@ A fancy little side salad for your snazzy lunch.
 * 4 x  [orange bell pepper]
 * 0.5 of  [avocado]
 * 3 x  [spring onions]
+* 1 x  [tablespoon of olive oil]
 * a splash [balsamic vinegar]
 * A little [pepper]
 

@@ -5,7 +5,7 @@
 [Piccalilli]:missing
 
 
-# Make a sandwhich
+# Make a sandwich
 
 ## For this step you will need:
 
