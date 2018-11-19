@@ -9,14 +9,14 @@
 
 ## Method:
 
-Slice the ham from the previous step.
+Slice the ham from the previous step with a [serrated knife]{Tool: 1}.
 
-Cut two [slices of bread]{Qty: 2}, and cover them with a knob of [butter]{Qty: A knob of}.
+Cut two [slices of bread]{Qty: 2} with a [serrated knife]{Tool: 1}, and cover them with a knob of [butter]{Qty: A knob of}.
 
 Put the sliced ham on one of the slices of buttered bread.
 
 Cover the ham in a liberal coating of [Piccalilli]{Qty: Quite a bit}.
 
-Put the sandwhich into the [Tupperware tub]{Qty: 1}
+Put the sandwich into the [Tupperware tub]{Qty: 1}
 
 
