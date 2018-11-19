@@ -2,7 +2,7 @@
 
 [Tupperware tub]:Parts/Tupperware.md "Qty: 1"
 
-# Pack some pickles
+# Side salad
 
 A fancy little side salad for your snazzy lunch.
 
