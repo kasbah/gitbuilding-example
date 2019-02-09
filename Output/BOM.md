@@ -22,7 +22,7 @@
 * 1 x  [Pressure cooker]  (Used: None )
 * 300 ml [water]
 * 1 x  [ham joint]
-* 6 x  [Tupperware tubs]  (Used: 1 )
+* 6 x  [Tupperware tubs]  (Used: 3 )
 * 2 x  [slices of bread]
 * 1 x  [serrated knife]
 * A knob of [butter]
