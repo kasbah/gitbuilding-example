@@ -1,6 +1,6 @@
 
 
-[Tupperware tub]:Parts/Tupperware.md "Qty: 1"
+[Tupperware tubs]:Parts/Tupperware.md "Qty: 3"
 [slices of bread]:bread.md "Qty: ?"
 
 # Make a sandwich
@@ -17,6 +17,6 @@ Put the sliced ham on one of the slices of buttered bread.
 
 Cover the ham in a liberal coating of [Piccalilli]{Qty: Quite a bit}.
 
-Put the sandwich into the [Tupperware tub]{Qty: 1}
+Put the sandwich into the [Tupperware tub][Tupperware tubs]{Qty: 1}
 
 

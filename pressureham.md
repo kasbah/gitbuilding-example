@@ -1,6 +1,6 @@
 
 
-[Pressure cooker]:Parts/PressureCook.md "Qty: 1"
+[Pressure cooker]:Parts/PressureCook.md "Tool: 1"
 
 # Pressure cook some ham
 

@@ -1,4 +1,4 @@
-[Tupperware tub]:Parts/Tupperware.md
+[Tupperware tubs]:Parts/Tupperware.md
 [slices of bread]:bread.md
 [serrated knife]:missing
 [butter]:missing
@@ -9,7 +9,7 @@
 
 ## For this step you will need:
 
-* 1 x  [Tupperware tub]
+* 3 x  [Tupperware tubs]  (Used: 1 )
 * 2 x  [slices of bread]
 * 1 x  [serrated knife]
 * A knob of [butter]
@@ -26,6 +26,6 @@ Put the sliced ham on one of the slices of buttered bread.
 
 Cover the ham in a liberal coating of [Piccalilli].
 
-Put the sandwich into the [Tupperware tub]
+Put the sandwich into the [Tupperware tub][Tupperware tubs]
 
 
