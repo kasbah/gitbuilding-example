@@ -9,4 +9,4 @@ This is a simple example of how to use Git-Building. Rather than an open hardwar
 1. [.](packpickles.md)
 1. [.](sidesalad.md)
 
-To check you have everything please check the [Bill of Materials]{BOM.md}
+To check you have everything please check the {{BOMlink}}
