@@ -17,12 +17,16 @@
 [tablespoon of olive oil]:missing
 [balsamic vinegar]:missing
 [pepper]:missing
+[Cornish Yarg]:missing
+[Camembert]:missing
+[bleu d'Auvergne]:missing
+[sharp kife]:missing
 ## Bill of Materials:
 
 * 1 x  [Pressure cooker]  (Used: None )
-* 300 ml [water]
+* 400 ml [water]
 * 1 x  [ham joint]
-* 6 x  [Tupperware tubs]  (Used: 3 )
+* 7 x  [Tupperware tubs]  (Used: 4 )
 * 2 x  [slices of bread]
 * 1 x  [serrated knife]
 * A knob of [butter]
@@ -38,3 +42,7 @@
 * 1 x  [tablespoon of olive oil]
 * a splash [balsamic vinegar]
 * A little [pepper]
+* A hefty chunk [Cornish Yarg]
+* A wedge [Camembert]
+* A slice [bleu d'Auvergne]
+* Some  [sharp kife]
