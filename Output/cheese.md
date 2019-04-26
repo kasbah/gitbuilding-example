@@ -15,7 +15,7 @@ Clearly no lunch is completely snazzy without a cheese board. A cheese board is 
 * A hefty chunk [Cornish Yarg]
 * A wedge [Camembert]
 * A slice [bleu d'Auvergne]
-* Some  [sharp kife]
+* 1 x  [sharp kife]
 
 
 ## Method:
