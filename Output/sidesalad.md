@@ -15,7 +15,8 @@ A fancy little side salad for your snazzy lunch.
 
 ## For this step you will need:
 
-* 1 x  [Tupperware tubs]
+### Ingredients
+
 * 4 x  [cherry tomatoes]
 * 0.5 of  [teaspoon of salt]
 * 4 x  [orange bell pepper]
@@ -24,6 +25,9 @@ A fancy little side salad for your snazzy lunch.
 * 1 x  [tablespoon of olive oil]
 * a splash [balsamic vinegar]
 * A little [pepper]
+### Containers
+
+* 1 x  [Tupperware tubs]
 
 
 ## Method:

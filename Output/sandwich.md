@@ -9,11 +9,17 @@
 
 ## For this step you will need:
 
-* 3 x  [Tupperware tubs]  (Used: 1 )
-* 2 x  [slices of bread]
+### Tools
+
 * 1 x  [serrated knife]
+### Ingredients
+
+* 2 x  [slices of bread]
 * A knob of [butter]
 * Quite a bit [Piccalilli]
+### Containers
+
+* 3 x  [Tupperware tubs]  (Used: 1 )
 
 
 ## Method:

@@ -23,12 +23,16 @@
 [sharp kife]:missing
 ## Bill of Materials:
 
+### Tools
+
 * 1 x  [Pressure cooker]  (Used: None )
+* 1 x  [serrated knife]
+* 1 x  [sharp kife]
+### Ingredients
+
 * 400 ml [water]
 * 1 x  [ham joint]
-* 7 x  [Tupperware tubs]  (Used: 4 )
 * 2 x  [slices of bread]
-* 1 x  [serrated knife]
 * A knob of [butter]
 * Quite a bit [Piccalilli]
 * 1 x  [pickled egg]
@@ -45,4 +49,6 @@
 * A hefty chunk [Cornish Yarg]
 * A wedge [Camembert]
 * A slice [bleu d'Auvergne]
-* 1 x  [sharp kife]
+### Containers
+
+* 7 x  [Tupperware tubs]  (Used: 4 )

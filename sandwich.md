@@ -1,6 +1,6 @@
 
 
-[Tupperware tubs]:Parts/Tupperware.md "Qty: 3"
+[Tupperware tubs]:Parts/Tupperware.md "Container: 3"
 [slices of bread]:bread.md "Qty: ?"
 
 # Make a sandwich

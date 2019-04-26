@@ -1,6 +1,6 @@
 
 
-[Tupperware tubs]:Parts/Tupperware.md "Qty: 1"
+[Tupperware tubs]:Parts/Tupperware.md "Container: 1"
 
 # Make a cheese board
 

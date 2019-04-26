@@ -1,8 +1,12 @@
 OverviewPage: overview.md
 
 CustomCategories:
-    Containers:
+    Ingredient:
         Reuse: False
-        
+    Container:
+        Reuse: False
+
+DefaultCategory: Ingredient
+
 #uncomment line below to disable fussy warnings
 #Fussy: False

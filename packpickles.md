@@ -1,6 +1,6 @@
 
 
-[Tupperware tubs]:Parts/Tupperware.md "Qty: 2"
+[Tupperware tubs]:Parts/Tupperware.md "Container: 2"
 
 # Pack some pickles
 

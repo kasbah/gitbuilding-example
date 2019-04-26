@@ -8,10 +8,14 @@
 
 ## For this step you will need:
 
-* 2 x  [Tupperware tubs]  (Used: 1 )
+### Ingredients
+
 * 1 x  [pickled egg]
 * 4 x  [pickled onions]
 * 1 x  [Gherkin]
+### Containers
+
+* 2 x  [Tupperware tubs]  (Used: 1 )
 
 
 ## Method:

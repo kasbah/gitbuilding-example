@@ -7,7 +7,11 @@
 
 ## For this step you will need:
 
+### Tools
+
 * 1 x  [Pressure cooker]  (Used: None )
+### Ingredients
+
 * 400 ml [water]
 * 1 x  [ham joint]
 

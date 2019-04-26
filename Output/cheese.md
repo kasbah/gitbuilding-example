@@ -11,11 +11,17 @@ Clearly no lunch is completely snazzy without a cheese board. A cheese board is 
 
 ## For this step you will need:
 
-* 1 x  [Tupperware tubs]
+### Tools
+
+* 1 x  [sharp kife]
+### Ingredients
+
 * A hefty chunk [Cornish Yarg]
 * A wedge [Camembert]
 * A slice [bleu d'Auvergne]
-* 1 x  [sharp kife]
+### Containers
+
+* 1 x  [Tupperware tubs]
 
 
 ## Method:
