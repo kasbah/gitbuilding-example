@@ -8,5 +8,8 @@ CustomCategories:
 
 DefaultCategory: Ingredient
 
+PartLibs:
+    - Parts
+
 #uncomment line below to disable fussy warnings
 #Fussy: False
