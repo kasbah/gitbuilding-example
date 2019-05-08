@@ -6,7 +6,7 @@
 [serrated knife]:missing
 [butter]:missing
 [Piccalilli]:missing
-[pickled egg]:missing
+[pickled egg]:Parts/PickledEgg.md
 [pickled onions]:missing
 [Gherkin]:missing
 [cherry tomatoes]:missing

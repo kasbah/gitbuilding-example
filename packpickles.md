@@ -1,6 +1,7 @@
 
 
 [Tupperware tubs]:Parts/Tupperware.md "Container: 2"
+[pickled egg]: Parts/PickledEgg.md "Qty: 1"
 
 # Pack some pickles
 
