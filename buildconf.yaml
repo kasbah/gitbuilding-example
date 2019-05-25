@@ -11,5 +11,14 @@ DefaultCategory: Ingredient
 PartLibs:
     - Parts
 
+Authors:
+    - Julian Stirling
+
+Affiliation: The fictional lunch group
+
+License: CC BY-SA 4.0
+
+Email: julian@notmyreal.email
+
 #uncomment line below to disable fussy warnings
 #Fussy: False
