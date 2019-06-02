@@ -17,17 +17,17 @@
 [tablespoon of olive oil]:missing
 [balsamic vinegar]:missing
 [pepper]:missing
+[sharp knife]:Models/knife.md
 [Cornish Yarg]:missing
 [Camembert]:missing
 [bleu d'Auvergne]:missing
-[sharp kife]:missing
 ## Bill of Materials:
 
 ### Tools
 
 * 1 x  [Pressure cooker]  (Used: None )
 * 1 x  [serrated knife]
-* 1 x  [sharp kife]
+* 1 x  [sharp knife]
 ### Ingredients
 
 * 400 ml [water]
