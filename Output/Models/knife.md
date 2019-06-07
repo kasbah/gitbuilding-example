@@ -1,3 +1,3 @@
 # knife.stl
 
-<canvas class="gb3dviewer" sourcefiles="/Models/knife.stl" width="500" height="500"></canvas>
+<stl-part-viewer src="/Models/knife.stl" width="500" height="500" floorcolor="0xf1f1f1"></stl-part-viewer>

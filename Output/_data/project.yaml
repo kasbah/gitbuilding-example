@@ -2,6 +2,21 @@ Affiliation: The fictional lunch group
 Authors:
 - Julian Stirling
 Email: julian@notmyreal.email
+FileList:
+- Output/BOM.md
+- Output/Ims/Cheese.jpg
+- Output/Ims/CheeseRind.jpg
+- Output/Models/knife.md
+- Output/Models/knife.stl
+- Output/Parts/PickledEgg.md
+- Output/Parts/PressureCook.md
+- Output/Parts/Tupperware.md
+- Output/cheese.md
+- Output/overview.md
+- Output/packpickles.md
+- Output/pressureham.md
+- Output/sandwich.md
+- Output/sidesalad.md
 License: CC BY-SA 4.0
 PageList:
 - Link: pressureham.md
