@@ -8,4 +8,4 @@
 
 ## Method:
 
-Put about 400 ml of [water]{Qty: 400 ml} in the bottom of your [Pressure cooker]. Place the steaming trivet into the cooker, then place a nice bigish [ham joint]{Qty: 1} on the trivet.
+Place a nice bigish [ham joint]{Qty: 1} into the [Pressure cooker]{Qty: 1}. Add 500ml of [cheap cider]{Qty: 500ml} and pressure cook for 1 hour and 20 minutes. Once finished place the ham to cool on a [Carving board]{Tool: 1}. You can save the liquid to make soup.
