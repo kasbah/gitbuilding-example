@@ -1,6 +1,7 @@
 [Pressure cooker]:Parts/PressureCook.md
-[water]:missing
 [ham joint]:missing
+[cheap cider]:missing
+[Carving board]:missing
 [Tupperware tubs]:Parts/Tupperware.md
 [slices of bread]:bread.md
 [serrated knife]:missing
@@ -25,13 +26,14 @@
 
 ### Tools
 
-* 1 x  [Pressure cooker]  (Used: None )
+* 1 x  [Pressure cooker]
+* 1 x  [Carving board]
 * 1 x  [serrated knife]
 * 1 x  [sharp knife]
 ### Ingredients
 
-* 400 ml [water]
 * 1 x  [ham joint]
+* 500ml [cheap cider]
 * 2 x  [slices of bread]
 * A knob of [butter]
 * Quite a bit [Piccalilli]

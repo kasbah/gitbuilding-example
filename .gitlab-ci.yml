@@ -1,0 +1,19 @@
+
+image: "python:3.7"
+
+before_script:
+  - python --version
+  - pip install git+https://gitlab.com/bath_open_instrumentation_group/git-building.git@static_html
+
+pages:
+  stage: deploy
+  script:
+  - gitbuilding build
+  - gitbuilding build-html
+  - mv _site public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
+

@@ -1,6 +1,7 @@
 [Pressure cooker]:Parts/PressureCook.md
-[water]:missing
 [ham joint]:missing
+[cheap cider]:missing
+[Carving board]:missing
 
 
 # Pressure cook some ham
@@ -9,13 +10,14 @@
 
 ### Tools
 
-* 1 x  [Pressure cooker]  (Used: None )
+* 1 x  [Pressure cooker]
+* 1 x  [Carving board]
 ### Ingredients
 
-* 400 ml [water]
 * 1 x  [ham joint]
+* 500ml [cheap cider]
 
 
 ## Method:
 
-Put about 400 ml of [water] in the bottom of your [Pressure cooker]. Place the steaming trivet into the cooker, then place a nice bigish [ham joint] on the trivet.
+Place a nice bigish [ham joint] into the [Pressure cooker]. Add 500ml of [cheap cider] and pressure cook for 1 hour and 20 minutes. Once finished place the ham to cool on a [Carving board]. You can save the liquid to make soup.
