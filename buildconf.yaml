@@ -20,5 +20,7 @@ License: CC BY-SA 4.0
 
 Email: julian@notmyreal.email
 
+WebsiteRoot: '/git-building-example/'
+
 #uncomment line below to disable fussy warnings
 #Fussy: False
