@@ -1,7 +1,7 @@
 
 
-[Tupperware tubs]:Parts/Tupperware.md "Container: 3"
-[slices of bread]:bread.md "Qty: ?"
+[Tupperware tubs]:Parts.yaml#Tupperware "{cat:Container,TotalQty: 1}"
+[slices of bread]:bread.md 
 
 # Make a sandwich
 
@@ -9,9 +9,11 @@
 
 ## Method:
 
-Slice the ham from the previous step with a [serrated knife]{Tool: 1}.
+Slice the ham from the previous step with a [serrated knife]{Qty: 1}.
 
-Cut two [slices of bread]{Qty: 2} with a [serrated knife]{Tool: 1}, and cover them with a knob of [butter]{Qty: A knob of}.
+[serrated knife]:missing "{cat:Tool}"
+
+Cut two [slices of bread]{Qty: 2} with a [serrated knife]{Qty: 1}, and cover them with a knob of [butter]{Qty: A knob of}.
 
 Put the sliced ham on one of the slices of buttered bread.
 

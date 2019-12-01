@@ -1,6 +1,6 @@
 
-[sharp knife]:Models/knife.stl "Tool: 1"
-[Tupperware tubs]:Parts/Tupperware.md "Container: 1"
+[sharp knife]:models/knife.stl "{cat:Tool,totalQty: 1}"
+[Tupperware tubs]:Parts.yaml#Tupperware "{cat:Container,totalQty: 1}"
 
 # Make a cheese board
 
@@ -10,7 +10,7 @@ Clearly no lunch is completely snazzy without a cheese board. A cheese board is 
 
 ## Method:
 
-A simple cheeseboard should generally contain at lease one soft cheese, one hard cheese, and a blue cheese. I suggest putting a hefty chunk of [Cornish Yarg]{Qty: A hefty chunk}, a medium sized wedge of [Camembert]{Qty: A wedge}, and a reasonable slice of [bleu d'Auvergne]{Qty: A slice}. Generally I cut the rind off the bleu d'Auvergne and Yarg with a [sharp knife]{Tool: 1}, before placing in a [Tupperware tub][Tupperware tubs]{Qty: 1}.
+A simple cheeseboard should generally contain at lease one soft cheese, one hard cheese, and a blue cheese. I suggest putting a hefty chunk of [Cornish Yarg]{Qty: A hefty chunk}, a medium sized wedge of [Camembert]{Qty: A wedge}, and a reasonable slice of [bleu d'Auvergne]{Qty: A slice}. Generally I cut the rind off the bleu d'Auvergne and Yarg with a [sharp knife]{Qty: 1}, before placing in a [Tupperware tub][Tupperware tubs]{Qty: 1}.
 
 ![Cheese Rind](images/CheeseRind.jpg "Removing the rind") 
 ![](images/A_folder/Cheese.jpg) 

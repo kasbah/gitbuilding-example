@@ -1,6 +1,6 @@
 
 
-[Tupperware tubs]:Parts/Tupperware.md "Container: 1"
+[Tupperware tubs]:Parts.yaml#Tupperware "{Cat:Container,TotalQty: 1}"
 
 # Side salad
 

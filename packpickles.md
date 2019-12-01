@@ -1,7 +1,7 @@
 
 
-[Tupperware tubs]:Parts/Tupperware.md "Container: 2"
-[pickled egg]: Parts/PickledEgg.md "Qty: 1"
+[Tupperware tubs]:Parts.yaml#Tupperware "{TotalQty: 1,Cat:Container}"
+[pickled egg]: Parts/PickledEgg.md "{TotalQty: 1}"
 
 # Pack some pickles
 

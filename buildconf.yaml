@@ -1,10 +1,12 @@
-OverviewPage: overview.md
+LandingPage: overview.md
 
-CustomCategories:
+CustomCategories:  
     Ingredient:
         Reuse: False
+        DisplayName: "Ingredients"
     Container:
         Reuse: False
+        DisplayName: "Containers"
 
 DefaultCategory: Ingredient
 

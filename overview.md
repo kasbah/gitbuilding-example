@@ -4,10 +4,10 @@ This is a simple example of how to use Git-Building. Rather than an open hardwar
 
 # Steps
 
-1. [.](pressureham.md)
-1. [.](sandwich.md)
-1. [.](packpickles.md)
-1. [.](sidesalad.md)
-1. [.](cheese.md)
+1. [.](pressureham.md){Step: True}
+1. [.](sandwich.md){Step:True}
+1. [.](packpickles.md){Step:True}
+1. [.](sidesalad.md){Step: true}
+1. [.](cheese.md){Step: true}
 
 To check you have everything please check the {{BOMlink}}
