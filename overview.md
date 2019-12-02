@@ -10,4 +10,4 @@ This is a simple example of how to use Git-Building. Rather than an open hardwar
 1. [.](sidesalad.md){Step: true}
 1. [.](cheese.md){Step: true}
 
-To check you have everything please check the {{BOMlink}}
+To check you have everything please check the [bill of materials page]({{BOMlink}}).
