@@ -1,28 +1,38 @@
 LandingPage: overview.md
 
 CustomCategories:  
-    Ingredient:
+    ingredient:
         Reuse: False
         DisplayName: "Ingredients"
-    Container:
+    container:
         Reuse: False
         DisplayName: "Containers"
 
-DefaultCategory: Ingredient
-
-PartLibs:
-    - Parts
+DefaultCategory: ingredient
 
 Authors:
     - Julian Stirling
 
 Affiliation: The fictional lunch group
 
-License: CC BY-SA 4.0
+License: CC-BY-SA-4.0
 
 Email: julian@notmyreal.email
 
-WebsiteRoot: '/git-building-example/'
+WebsiteRoot: '/gitbuilding-example/'
+    
+HTMLOptions:
+    AcknowledgeGitBuilding: True
+    CustomFooter: >
+        <p class="author">Copyright {authors} {year}</p>
+        <p class="license">{title} is released under {license}</p>
+        <p><b>Disclaimer: </b>{disclaimer}</p>
+    CustomHeader: >
+        <a class="site-title" href="{root}">{title}</a>
+        <p>This is a custom header</p>
+    
+Variables:
+    disclaimer: This lunch was created to show off the features of GitBuilding. In all honesty it may not be that snazzy.
 
 #uncomment line below to disable fussy warnings
 #Fussy: False

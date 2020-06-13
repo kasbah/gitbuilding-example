@@ -1,3 +1,4 @@
-.server_output
+_build
 _site
-Output
+
+.venv
