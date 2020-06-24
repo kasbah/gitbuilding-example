@@ -20,17 +20,7 @@ License: CC-BY-SA-4.0
 Email: julian@notmyreal.email
 
 WebsiteRoot: '/gitbuilding-example/'
-    
-HTMLOptions:
-    AcknowledgeGitBuilding: True
-    CustomFooter: >
-        <p class="author">Copyright {authors} {year}</p>
-        <p class="license">{title} is released under {license}</p>
-        <p><b>Disclaimer: </b>{disclaimer}</p>
-    CustomHeader: >
-        <a class="site-title" href="{root}">{title}</a>
-        <p>This is a custom header</p>
-    
+   
 Variables:
     disclaimer: This lunch was created to show off the features of GitBuilding. In all honesty it may not be that snazzy.
 
