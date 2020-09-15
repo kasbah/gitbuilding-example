@@ -15,26 +15,10 @@ jobs:
         run: |
           pip install gitbuilding
           gitbuilding build-html
-      - name: Deploy to GitHub Pages
-        run: |
-          remote_repo="https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-          echo "1 ${GITHUB_ACTOR}"
-          echo "2 ${GITHUB_REPOSITORY}"
-          echo "3 ${remote_repo}"
-          echo "4 ${{ secrets.GITHUB_ACTOR }}"
-          echo "5 ${{ secrets.GITHUB_REPOSITORY }}"
-          cd _site/
-          remote_branch="gh-pages"
-          git init
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git add .
-          echo -n 'Files to Commit:' && ls -l | wc -l
-          git commit -m'action build'
-          git push --force $remote_repo master:$remote_branch
-          rm -rf .git
-          cd ../
-        env:
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@3.6.1
+        with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
-          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
+          BRANCH: gh-pages # The branch the action should deploy to.
+          FOLDER: _site/ # The folder the action should deploy.
+          CLEAN: true # Automatically remove deleted files from the deploy branch
