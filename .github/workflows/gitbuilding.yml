@@ -17,8 +17,13 @@ jobs:
           gitbuilding build-html
       - name: Deploy to GitHub Pages
         run: |
-          cd _site/
           remote_repo="https://${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          echo "${GITHUB_ACTOR}"
+          echo "${GITHUB_REPOSITORY}"
+          echo "${remote_repo}"
+          echo "${{ secrets.GITHUB_ACTOR }}"
+          echo "${{ secrets.GITHUB_REPOSITORY }}"
+          cd _site/
           remote_branch="gh-pages"
           git init
           git config user.name "${GITHUB_ACTOR}"
