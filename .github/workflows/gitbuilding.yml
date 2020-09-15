@@ -1,0 +1,17 @@
+name: Deploy Gitbuilding Project to Github Pages
+
+on: [push]
+
+jobs:
+  build_and_deploy:
+  runs-on: "python:3.7"
+    steps:
+      - uses: actions/checkout@v1
+      - name: Build & Deploy to GitHub Pages
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
+        run: |
+           pip install gitbuilding
+           gitbuilding build-html
