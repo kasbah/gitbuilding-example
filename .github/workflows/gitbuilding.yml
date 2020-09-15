@@ -12,10 +12,6 @@ jobs:
         with:
           python-version: 3.7
       - name: Build & Deploy to GitHub Pages
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
-          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
         run: |
           pip install gitbuilding
           gitbuilding build-html
@@ -33,3 +29,7 @@ jobs:
           git push --force $remote_repo master:$remote_branch > /dev/null 2>&1 && \
           rm -rf .git && \
           cd ../
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
+          GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
