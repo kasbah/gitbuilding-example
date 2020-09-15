@@ -1,6 +1,6 @@
 [build]
   command = """
-    pip install gitbuilding
+    pip3 install gitbuilding
     gitbuilding build-html
   """
   publish = "_site/"
