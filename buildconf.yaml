@@ -1,6 +1,6 @@
 LandingPage: overview.md
 
-CustomCategories:  
+CustomCategories:
     ingredient:
         Reuse: False
         DisplayName: "Ingredients"
@@ -19,8 +19,6 @@ License: CC-BY-SA-4.0
 
 Email: julian@notmyreal.email
 
-WebsiteRoot: '/gitbuilding-example/'
-   
 Variables:
     disclaimer: This lunch was created to show off the features of GitBuilding. In all honesty it may not be that snazzy.
 
