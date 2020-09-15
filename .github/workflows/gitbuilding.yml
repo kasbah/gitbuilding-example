@@ -11,7 +11,7 @@ jobs:
         uses: actions/setup-python@v1
         with:
           python-version: 3.7
-      - name: Build & Deploy to GitHub Pages
+      - name: Build
         run: |
           pip install gitbuilding
           gitbuilding build-html
@@ -19,6 +19,7 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@3.6.1
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: _site/ # The folder the action should deploy.
-          CLEAN: true # Automatically remove deleted files from the deploy branch
+          BRANCH: gh-pages
+          FOLDER: _site/
+          # Automatically remove deleted files from the deploy branch
+          CLEAN: true
