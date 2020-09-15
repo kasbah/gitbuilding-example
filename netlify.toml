@@ -1,0 +1,6 @@
+[build]
+  command = """
+    pip install gitbuilding
+    gitbuilding build-html
+  """
+  publish = "_site/"
