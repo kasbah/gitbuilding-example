@@ -9,16 +9,13 @@
 
 ## Method:
 
-Slice the ham from the previous step with a [serrated knife]{Qty: 1}.
 
-[serrated knife]:missing "{cat:Tool}"
+Cut two [bread]{Qty: 2 slices} with a [bread knife]{Qty: 1, cat:tool}, and cover them with a knob of [butter]{Qty: 1 knob}.
 
-Cut two [bread]{Qty: 2 slices} with a [serrated knife]{Qty: 1}, and cover them with a knob of [butter]{Qty: 1 knob}.
-
-Put the sliced ham on one of the slices of buttered bread.
+Put the 2 slices of [cooked ham](fromstep){qty: 2 slices} on one of the slices of buttered bread.
 
 Cover the ham in a liberal coating of [Piccalilli]{Qty: Quite a bit}.
 
-Put the sandwich into the [Tupperware tub][Tupperware tubs]{Qty: 1}
+Put the sandwich into the [Tupperware tub][Tupperware tubs]{Qty: 1}.
 
 

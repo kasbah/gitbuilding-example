@@ -3,13 +3,4 @@
 
 This is a simple example of how to use Git-Building. Rather than an open hardware project, this documents "building" a lunch which is, *I feel*, pretty snazzy.
 
-# Steps
-
-1. [.](pressureham.md){step}
-1. [.](sandwich.md){step}
-1. [.](packpickles.md){step}
-1. [.](sidesalad.md){step}
-1. [.](cheese.md){step}
-
-
-To check you have everything please check the [bill of materials page]({{BOMlink}}).
+There are two variations on the lunch. The [original lunch](original_lunch.md), and a version with a [modified cheese board](modified_lunch.md) as requested by William.
