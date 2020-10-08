@@ -11,6 +11,3 @@ After the [cooked ham]{output, qty:20 slices} has cooled down cut it into about 
 
 [Pressure cooker]:Parts.yaml#PressureCook "{cat: Tool}"
 [Carving board]:Parts/Carvingboard.md "{cat: Tool}"
-
-
-
